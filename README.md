@@ -45,7 +45,7 @@
 
 <br>
 <p align="center">### 👨‍💻 My 42 status</p>
-<p align="center"><img src=[![yualgan's 42 stats](https://badge42.vercel.app/api/v2/clcwusxvy00060fl1zizhmckc/stats?cursusId=21&coalitionId=198)](https://github.com/JaeSeoKim/badge42)/></p>
+<p align="center"><img src=[[![yualgan's 42 stats](https://badge42.vercel.app/api/v2/clcwusxvy00060fl1zizhmckc/stats?cursusId=21&coalitionId=198)](https://github.com/JaeSeoKim/badge42)](https://badge42.vercel.app/api/v2/clcwusxvy00060fl1zizhmckc/stats?cursusId=21&coalitionId=198)/></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufalp&show_icons=true&locale=en" alt="yusufalp" /></p>
 
