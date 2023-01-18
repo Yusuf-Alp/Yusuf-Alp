@@ -1,6 +1,3 @@
 <h1 align="center">Hi 👋, I'm yusufalp</h1>
-
-
-<br>
 <p align="center">👨‍💻 My 42 status</p>
-<p align="center"><img src="https://badge42.vercel.app/api/v2/clcwusxvy00060fl1zizhmckc/stats?cursusId=21&coalitionId=198"/></p>
+<p align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/yualgan?1337Badge=off&UM6P=off" alt="yualgan's 42 stats" /></a>
